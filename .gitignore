@@ -18,3 +18,4 @@ venv/
 .nexus/training/
 
 .DS_Store
+CLAUDE.md
