@@ -1,0 +1,12 @@
+default_model: moonshot/kimi-k2.5
+
+providers:
+  moonshot:
+    api_key: your-api-key-here
+    base_url: https://api.moonshot.cn/v1
+  openai:
+    api_key: your-openai-key-here
+  # anthropic:
+  #   api_key: your-anthropic-key-here
+
+# ollama_base_url: http://localhost:11434

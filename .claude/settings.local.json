@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/youfangdajiankang/OpenClaw-RL/swe-rl/**)",
+      "Read(//Users/youfangdajiankang/OpenClaw-RL/toolcall-rl/**)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.openclaw.ai)",
+      "WebFetch(domain:open-claw.bot)"
+    ]
+  }
+}
